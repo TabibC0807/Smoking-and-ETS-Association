@@ -10,13 +10,15 @@ The purpose of Dr. Micalizzi’s research is to examine the association between 
 My main objective was to examine effects of SDP/ETS on adolescent self-regulation, substance use, and externalizing.
 
 ## Methods
-I worked on doing missing and exploratory data analysis. I used R software to construct tables and plots comparing groups of SDP/ETS to variables describing adolescent self-regulation, substance use, and externalizin. These tables include p-values to determine if the relationships I found were statistically significant. 
+I recieved cleaned and preprocessed data. I simply had to preprocess some minor details relating to the missing values. I worked on doing missing and exploratory data analysis. I used R software to construct tables and plots comparing groups of SDP/ETS to variables describing adolescent self-regulation, substance use, and externalizin. These tables include p-values to determine if the relationships I found were statistically significant. 
 
 ## Conclusion
 
 In this report, we conducted missing and exploratory data analysis of the data provided. We found that the data is MAR(missing at random). We showed this thru visuals, examples and tables. We also found significant relationships between SDP and adolescent self-regulation, substance use, and externalizing. This relationship was not as easily visible for ETS, however we did find some relationships between ETS and adolescent substance use. 
 
 The main set back of the study was the low number of observations. This could lead to high bias among our results. More importantly, the low number of observations decreased the statistical power of the study. Another set back of the study is having more observations than variables. Often this leads to high data sparsity, which ddidn't allow us to deal with missing data through imputaions. 
+
+
 
 
 
