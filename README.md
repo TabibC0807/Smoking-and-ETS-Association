@@ -1,4 +1,4 @@
-# Project-1
+# Association between smoking during pregnancy and environmental tobacco smoking variables
 PHP2550 Project 1
 ## Overview(from Dr. Alice Paul's canvas site):
 This project is a collaboration with Dr. Lauren Micalizzi from the Department Behavioral and Social Sciences. Exposure to smoking during pregnancy (SDP) and environmental tobacco smoke (ETS) are two of the most ubiquitous and hazardous of children’s environmental exposures. Seven to 15% of infants born per year are exposed to SDP and more than 25% of children are exposed to household ETS. SDP alone imposes a $4 billion annual economic burden due to health-care costs. Early smoke-exposure increases rates of externalizing behaviors in children, including Attention-Deficit/Hyperactivity Disorder, and rates of substance use problems, all of which have clear public health implications. Early smoke exposure is also linked to self-regulation problems (i.e., the maintenance of physiological, emotional, behavioral, and cognitive control).
